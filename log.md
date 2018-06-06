@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Monday, June 4, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on landing page for my capstone project, using React and CSS.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Using React CSS is challenging, but I'm slowly getting the hang of it. I also don't have the greatest eye for design, so I've started making lists of websites that I like and then incorporating design features I like from each of them into my work.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: Tuesday, June 5, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Attempted to deploy my Rails back end to Heroku.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I couldn't get this to work today, which is frustrating. The error I'm getting is related to Heroku Postgres not being able to use my relations or migrations, but I'll keep working on it.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**: [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end)
 
 
-### Day 1: June 27, Monday
+### Day 3: Wednesday, June 6, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I got my back end deployed!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Thank god for crowdsourcing and my GA cohort. It would definitely have taken me at least another few days to figure out why this wasn't working. (You can't have belongs_to :through in rails. Which I knew, but apparently typed anyway.)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**: [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end)
