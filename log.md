@@ -24,3 +24,11 @@
 **Thoughts** Thank god for crowdsourcing and my GA cohort. It would definitely have taken me at least another few days to figure out why this wasn't working. (You can't have belongs_to :through in rails. Which I knew, but apparently typed anyway.)
 
 **Link to work**: [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end)
+
+### Day 4: Thursday, June 7, 2018
+
+**Today's Progress**: I deployed my front end to Heroku, updated my portfolio site to reflect my latest project, and continued to work on the landing page of my site.
+
+**Thoughts:** I'm staring to get the hang of deploying to Heroku on my own, although it would be nice to have a good guide. It also helps when you actually have your package.json at the root level, which I did not. Plus, I'm getting better at React CSS, which is exciting.
+
+**Link(s) to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training), [Portfolio](https://github.com/hanna2895/portfolio)
