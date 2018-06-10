@@ -32,3 +32,19 @@
 **Thoughts:** I'm staring to get the hang of deploying to Heroku on my own, although it would be nice to have a good guide. It also helps when you actually have your package.json at the root level, which I did not. Plus, I'm getting better at React CSS, which is exciting.
 
 **Link(s) to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training), [Portfolio](https://github.com/hanna2895/portfolio)
+
+### Day 5: Friday, June 8, 2018
+
+**Today's Progress**: I worked on the back end of my site and researched AWS S3 and other cloud-based data storage options to store files as the application scales.
+
+**Thoughts:** I have a lot more work to do on this, apparently.
+
+**Link to work:** [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end)
+
+### Day 6: Saturday, June 9, 2018
+
+**Today's Progress**: Still working on storing files in the postgreSQL database using form data and params. Not making a lot of progress.
+
+**Thoughts:** This seems like it should be easier than it is. I need to do some more research.
+
+**Link to work:** [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end)
