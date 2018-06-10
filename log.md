@@ -48,3 +48,11 @@
 **Thoughts:** This seems like it should be easier than it is. I need to do some more research.
 
 **Link to work:** [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end)
+
+### Day 7: Sunday, June 10, 2018
+
+**Today's Progress**: Might be getting closer with the file uploads?
+
+**Thoughts:** I switched from params back to using payload, but I'm still stuck at wrong number of arguments. Will start over with a new model / table / controller and see if that helps, but I'm not hopeful. 
+
+**Link to work:** [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end)
