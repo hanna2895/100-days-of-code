@@ -51,8 +51,8 @@
 
 ### Day 7: Sunday, June 10, 2018
 
-**Today's Progress**: Might be getting closer with the file uploads?
+**Today's Progress**: Might be getting closer with the file uploads? I also picked up the MyCanvas Spotify OAuth project again to keep building in Express, but the page keeps refreshing and there are some new challenges in pulling data after OAuth occurs.
 
-**Thoughts:** I switched from params back to using payload, but I'm still stuck at wrong number of arguments. Will start over with a new model / table / controller and see if that helps, but I'm not hopeful. 
+**Thoughts:** I switched from params back to using payload, but I'm still stuck at wrong number of arguments. Will start over with a new model / table / controller and see if that helps, but I'm not hopeful.
 
-**Link to work:** [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end)
+**Link(s) to work:** [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end), [My Canvas](https://github.com/hanna2895/MyCanvas)
