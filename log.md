@@ -56,3 +56,11 @@
 **Thoughts:** I switched from params back to using payload, but I'm still stuck at wrong number of arguments. Will start over with a new model / table / controller and see if that helps, but I'm not hopeful.
 
 **Link(s) to work:** [ABC Training Back End](https://github.com/hanna2895/ABC-Training-back-end), [My Canvas](https://github.com/hanna2895/MyCanvas)
+
+### Day 8: Monday, June 11, 2018
+
+**Today's Progress**: I'm finishing up the styling on ABC training today so I can at least feel like I'm making progress.
+
+**Thoughts:** React CSS is annoying but slow progress is better than no progress.
+
+**Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
