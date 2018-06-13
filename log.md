@@ -64,3 +64,19 @@
 **Thoughts:** React CSS is annoying but slow progress is better than no progress.
 
 **Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
+
+### Day 9: Tuesday, June 12, 2018
+
+**Today's Progress**: Finished styling the landing page of ABC training and adjusted the nav bar so it doesn't mess up the content once you actually log into the app. I also updated the readmes for some of my old projects to make my github look nice.
+
+**Thoughts:** It may be slightly overboard, but I was having fun / procrastinating.
+
+**Link(s) to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training), [BATTLE](https://github.com/hanna2895/BATTLE), [Hangman](https://github.com/hanna2895/hangman), [MyCanvas](https://github.com/hanna2895/MyCanvas)
+
+### Day 10: Wednesday, June 13, 2018
+
+**Today's Progress**: Finished up some last minute styling and functionality issues to get ready for our S H O W C A S E today (so excited!)
+
+**Thoughts:** I can't wait to start working on functionality again but I'm too scared to break something before I have to present it to employers.
+
+**Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
