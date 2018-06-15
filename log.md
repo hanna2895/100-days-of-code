@@ -80,3 +80,13 @@
 **Thoughts:** I can't wait to start working on functionality again but I'm too scared to break something before I have to present it to employers.
 
 **Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
+
+### Skipped Thursday, June 14. (from the 1st 14-day block).
+
+### Day 11: Friday, June 15, 2018
+
+**Today's Progress**: I started refactoring my React code in ABC training to Redux in order to make the app cleaner.
+
+**Thoughts:** You have to put that stuff in the root reducer. It took me an hour to figure out why it wasn't working, but now I'll know. 
+
+**Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
