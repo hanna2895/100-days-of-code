@@ -87,6 +87,22 @@
 
 **Today's Progress**: I started refactoring my React code in ABC training to Redux in order to make the app cleaner.
 
-**Thoughts:** You have to put that stuff in the root reducer. It took me an hour to figure out why it wasn't working, but now I'll know. 
+**Thoughts:** You have to put that stuff in the root reducer. It took me an hour to figure out why it wasn't working, but now I'll know.
+
+**Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
+
+### Day 12: Saturday, June 16, 2018
+
+**Today's Progress**: Moved the get admins function from React component into Redux.
+
+**Thoughts:** I thought this would be easy but it required some playing around with React Lifecycle methods and some if/else logic that was tough to figure out.
+
+**Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
+
+### Day 13: Sunday, June 17, 2018
+
+**Today's Progress**: I moved the EditAdmins function over from my React component into Redux.
+
+**Thoughts:** Lol at how I thought this would be easy. Lots more playing with React Lifecycle components, and adding the store to more components, refactoring dumb components into smart components, etc.
 
 **Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
