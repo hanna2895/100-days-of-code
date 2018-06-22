@@ -106,3 +106,27 @@
 **Thoughts:** Lol at how I thought this would be easy. Lots more playing with React Lifecycle components, and adding the store to more components, refactoring dumb components into smart components, etc.
 
 **Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
+
+### Day 14: Monday, June 18, 2018
+
+**Today's Progress**: Finished moving the admin component over into Redux.
+
+**Thoughts:**
+
+**Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
+
+### Day 15: Tuesday, June 19, 2018
+
+**Today's Progress**: Started moving the student component over into Redux.
+
+**Thoughts:** For some reason, the action isn't being called. I'm not sure why, but it's not updating properly.
+
+**Link to work:** [ABC Training Front End](https://github.com/hanna2895/ABC-Training)
+
+### Day 16: Friday, June 22, 2018
+
+**Today's Progress**: Got the photos to show up on the user show page of MyCanvas.
+
+**Thoughts:** I missed a few days, and switched back to MyCanvas to keep studying for a MERN stack interview I have on Monday. Turns out, I forgot to actually put stuff in my Photo schema.
+
+**Link to work:** [MyCanvas](https://github.com/hanna2895/MyCanvas)
