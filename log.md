@@ -130,3 +130,11 @@
 **Thoughts:** I missed a few days, and switched back to MyCanvas to keep studying for a MERN stack interview I have on Monday. Turns out, I forgot to actually put stuff in my Photo schema.
 
 **Link to work:** [MyCanvas](https://github.com/hanna2895/MyCanvas)
+
+### Day 17-19: Monday, June 25, 2018 - Wednesday, June 27, 2018
+
+**Today's Progress**: Finished adding the photo functionality and community canvas functionality of MyCanvas.
+
+**Thoughts:** I'm struggling to be consistent between the job search, learning new things, life stuff, and working but not wanting to commit broken code. I've got this app to a point where I'm happy with it and will probably leave it alone for a bit while I focus on learning some new material.
+
+**Link to work:** [MyCanvas](https://github.com/hanna2895/MyCanvas)
